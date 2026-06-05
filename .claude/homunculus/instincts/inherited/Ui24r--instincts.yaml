@@ -1,0 +1,260 @@
+# Instincts generated from https://github.com/zakkzoot/Ui24r-
+# Generated: 2026-06-05T19:15:35.986Z
+# Version: 2.0
+# NOTE: This file supplements (does not replace) any existing curated instincts.
+# High-confidence manually curated instincts should be preserved alongside these.
+
+---
+id: Ui24r--commit-length
+trigger: "when writing a commit message"
+confidence: 0.6
+domain: git
+source: repo-analysis
+source_repo: https://github.com/zakkzoot/Ui24r-
+---
+
+# Ui24r  Commit Length
+
+## Action
+
+Write moderate-length commit messages (~61 characters)
+
+## Evidence
+
+- Average commit message length: 61 chars
+- Based on 3 commits
+
+---
+id: Ui24r--naming-files
+trigger: "when creating a new file"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/zakkzoot/Ui24r-
+---
+
+# Ui24r  Naming Files
+
+## Action
+
+Use snake_case naming convention
+
+## Evidence
+
+- Analyzed file naming patterns in repository
+- Dominant pattern: snake_case
+
+---
+id: Ui24r--import-relative
+trigger: "when importing modules"
+confidence: 0.75
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/zakkzoot/Ui24r-
+---
+
+# Ui24r  Import Relative
+
+## Action
+
+Use relative imports for project files
+
+## Evidence
+
+- Import analysis shows relative import pattern
+- Example: import { x } from '../lib/x'
+
+---
+id: Ui24r--export-style
+trigger: "when exporting from a module"
+confidence: 0.7
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/zakkzoot/Ui24r-
+---
+
+# Ui24r  Export Style
+
+## Action
+
+Prefer named exports
+
+## Evidence
+
+- Export pattern analysis
+- Dominant style: named
+
+---
+id: Ui24r--test-separate
+trigger: "when writing tests"
+confidence: 0.8
+domain: testing
+source: repo-analysis
+source_repo: https://github.com/zakkzoot/Ui24r-
+---
+
+# Ui24r  Test Separate
+
+## Action
+
+Place tests in the tests/ or __tests__/ directory, mirroring src structure
+
+## Evidence
+
+- Separate test directory pattern detected
+- Tests live in dedicated test folders
+
+---
+id: ui24r--snake-case-files
+trigger: "When creating a new file"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: zakkzoot/Ui24r-
+---
+
+# Ui24r  Snake Case Files
+
+## Action
+
+Name the file using snake_case
+
+## Evidence
+
+- Pattern in namingConventions.files
+
+---
+id: ui24r--camel-case-functions
+trigger: "When defining a new function"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: zakkzoot/Ui24r-
+---
+
+# Ui24r  Camel Case Functions
+
+## Action
+
+Name the function using camelCase
+
+## Evidence
+
+- Pattern in namingConventions.functions
+
+---
+id: ui24r--pascal-case-classes
+trigger: "When defining a new class"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: zakkzoot/Ui24r-
+---
+
+# Ui24r  Pascal Case Classes
+
+## Action
+
+Name the class using PascalCase
+
+## Evidence
+
+- Pattern in namingConventions.classes
+
+---
+id: ui24r--screaming-snake-constants
+trigger: "When defining a constant"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: zakkzoot/Ui24r-
+---
+
+# Ui24r  Screaming Snake Constants
+
+## Action
+
+Name the constant using SCREAMING_SNAKE_CASE
+
+## Evidence
+
+- Pattern in namingConventions.constants
+
+---
+id: ui24r--relative-imports
+trigger: "When importing modules within the package"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: zakkzoot/Ui24r-
+---
+
+# Ui24r  Relative Imports
+
+## Action
+
+Use relative imports
+
+## Evidence
+
+- Pattern in importStyle
+
+---
+id: ui24r--named-exports
+trigger: "When exporting symbols from a module"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: zakkzoot/Ui24r-
+---
+
+# Ui24r  Named Exports
+
+## Action
+
+Use named exports
+
+## Evidence
+
+- Pattern in exportStyle
+
+---
+id: ui24r--test-location-separate
+trigger: "When adding or updating tests"
+confidence: 0.8
+domain: testing
+source: repo-analysis
+source_repo: zakkzoot/Ui24r-
+---
+
+# Ui24r  Test Location Separate
+
+## Action
+
+Place test files in a separate location from source code
+
+## Evidence
+
+- Pattern in architecture.testLocation
+
+---
+id: ui24r--commit-freeform
+trigger: "When writing a commit message"
+confidence: 0.9
+domain: git
+source: repo-analysis
+source_repo: zakkzoot/Ui24r-
+---
+
+# Ui24r  Commit Freeform
+
+## Action
+
+Use a freeform, descriptive message without a strict prefix
+
+## Evidence
+
+- Seen in commit: Add max-ROI apartment renovation: mood board, before/after renders & plan
+- Seen in commit: Add Renovation_Plan.pdf — full deliverable with embedded images
+- Seen in commit: Add costed boho renovation plan (max-ROI lens)
+

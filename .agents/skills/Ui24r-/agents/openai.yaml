@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ui24r"
+  short_description: "Repo-specific patterns and workflows for Ui24r-"
+  default_prompt: "Use the Ui24r- repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
