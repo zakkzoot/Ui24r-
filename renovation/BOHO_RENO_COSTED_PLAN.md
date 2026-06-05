@@ -19,12 +19,39 @@ alone. Items are sorted **Do-now → Worth-it → Skip/Defer**. The goal is to b
 | Phase | Spend (USD) | What it buys | Verdict |
 |---|---:|---|---|
 | **1 — Soft boho** | **$650–950** | 70% of the look: pendants, rugs, plants, textiles, art, lighting, styling | **Do now** — highest ROI, portable |
-| **2 — Light works** | **$1,300–2,300** | Wood-look floors + wood-refaced kitchen bar + 1 brick feature wall | **Worth it** — biggest permanent uplift |
+| **2 — Light works** | **$1,070–1,950** | Wood-look floors (~52 m²) + wood-refaced kitchen bar + 1 brick feature wall | **Worth it** — biggest permanent uplift |
 | **3 — Bathroom / extras** | **$500–900** | Glass shower screen, wall-hung WC, built-ins | **Skip / defer** — low incremental rent return |
 
 Recommended commit for best ROI: **Phase 1 in full + the flooring and kitchen
-refacing from Phase 2.** That's roughly **$1,800–2,800** all-in and captures
+refacing from Phase 2.** That's roughly **$1,570–2,550** all-in and captures
 almost the entire effect of your renders.
+
+---
+
+## Measured dimensions & quantities
+
+Derived from the **1 ft × 1 ft floor tiles** (count grout lines) and the stated
+**13 ft living-room width**; ceiling height scaled off the door height. Depth is
+the softer figure (camera perspective), so it's kept conservative.
+
+| Space | Size (ft) | Area |
+|---|---|---:|
+| Width (whole unit) | 13 ft (≈4.0 m) — *given* | — |
+| **Living / kitchen open-plan** | ~13 × 22 | **286 ft² (26.6 m²)** |
+| **Master bedroom** | ~12 × 12 | **144 ft² (13.4 m²)** |
+| **Bedroom 2** | ~11 × 12 | **132 ft² (12.3 m²)** |
+| Bathroom | ~6 × 8 | 48 ft² (4.5 m²) |
+| Ceiling height | **~12–13 ft (tall)** | — |
+| **Total floor** | | **≈ 610 ft² (57 m²)** |
+| **Floor to re-lay (excl. bath)** | | **≈ 562 ft² (52 m²)** |
+
+These numbers drive the **flooring, brick wall and rug** quantities below; the
+soft-furnishing costs don't change with area. **Re-measure on site** before
+buying flooring or brick — those two scale directly with these figures.
+
+> **Note — tall ceilings are an asset.** ~12–13 ft is a real premium signal;
+> lean into it (tall drapes hung high, the rattan pendant cluster, big plants)
+> rather than spending to "fill" it.
 
 ---
 
@@ -36,7 +63,7 @@ like the renders. This is where the rent uplift actually comes from.
 | Element | What to buy | Cost | Notes |
 |---|---|---:|---|
 | **Pendant lighting** | Rattan/cane pendants — cluster over bed, single over bar/table | $80–180 | Swap existing fittings; single biggest "boho" signal |
-| **Rugs** | Large jute/wool rugs — living zone + each bedroom + a runner | $130–260 | Warms the grey tile *now*, defines zones, portable |
+| **Rugs** | Living ~8×10 ft jute/wool + 2 bedroom ~5×7 ft + a runner | $130–260 | Warms the grey tile *now*, defines zones, portable |
 | **Plants** | Monstera, palm, fiddle-leaf, snake plant, pampas + woven/terracotta pots | $90–160 | High impact per dollar; the renders lean heavily on greenery |
 | **Curtains** | Teal velvet / mustard linen on bedrooms; light linen elsewhere | $120–220 | The teal drape is the bedroom hero in your render |
 | **Bedding & textiles** | Layered linen, mustard throw, jewel/earth cushions, woven blanket | $130–230 | Hotel-plus styling; reads premium in photos |
@@ -57,12 +84,14 @@ turns a "nicely styled rental" into "renovated apartment" at listing time.
 
 ### 2a. Wood-look flooring over the grey tile — **the #1 transformer**
 - **SPC / click laminate laid over existing tile** (no demolition = minor work).
-- Cost: **~$12–18/m² installed** (budget SPC). Living + 2 bedrooms ≈ 55–70 m² →
-  **~$750–1,200**.
+- **Measured area: ~52 m² (562 ft²)** = living/kitchen 26.6 + two bedrooms 25.7.
+- Cost: **~$12–18/m² installed** (budget SPC), +~7% for waste/trim →
+  **≈ $670–1,000** for the whole unit. Per room: living ≈ $340–510, each
+  bedroom ≈ $165–250.
 - ROI verdict: **highest-impact permanent change.** Grey tile → warm wood is the
   difference between your renders and the original. If budget is tight, **large
-  rugs (Phase 1) get you ~60% of the effect for ~10% of the cost** — do floors
-  only if you're holding the unit a while.
+  rugs (Phase 1) get you ~60% of the effect for ~10% of the cost** — or floor
+  the **living/kitchen only (~$340–510)** first and add bedrooms later.
 
 ### 2b. Wood-refaced kitchen bar — *as in your kitchen render*
 - New **timber doors/fronts on the existing granite peninsula + base units**
@@ -73,9 +102,12 @@ turns a "nicely styled rental" into "renovated apartment" at listing time.
 
 ### 2c. One brick-slip feature wall — *the industrial-boho nook*
 - **Brick slips / veneer tiles** on a single wall (TV wall or the office nook).
-- Cost: brick slips **~$8–15/m²** + adhesive + labour → **~$150–350** for one wall.
+- With ~12–13 ft ceilings a **full-height 13 ft wall ≈ 16 m²** ($230–500). **Don't
+  do full height** — brick a defined band (e.g. 13 ft × 8 ft ≈ **10 m²**) or just
+  the nook → **~$150–350** incl. adhesive + labour.
 - ROI verdict: **worth it as ONE accent only.** Huge photo "wow" per dollar; do
-  not brick multiple walls (diminishing returns, can read busy).
+  not brick multiple walls (diminishing returns, can read busy), and capping the
+  height keeps cost down while the tall ceiling stays the hero.
 
 ---
 
@@ -98,8 +130,8 @@ unit to a clearly higher rent bracket.
 | Scenario | Spend | What you get |
 |---|---:|---|
 | **Lean** (Phase 1 only) | **$650–950** | Fully boho-*styled*, portable, weekend job |
-| **Recommended** (P1 + floors + kitchen reface) | **$1,800–2,800** | Looks like your renders; permanent uplift; one accent brick wall optional |
-| **Full** (P1 + P2 + P3) | **$2,450–4,150** | Everything in the renders incl. bathroom |
+| **Recommended** (P1 + floors + kitchen reface) | **$1,570–2,550** | Looks like your renders; permanent uplift; one accent brick wall optional |
+| **Full** (P1 + P2 + P3) | **$2,220–3,800** | Everything in the renders incl. bathroom |
 
 **Rent-uplift logic (max-ROI):**
 - Phase 1 is near-pure ROI — portable, supports higher rent + faster letting,
@@ -117,7 +149,8 @@ structural brick). Nothing here needs permits or changes the building.
 ---
 
 ## Assumptions (adjust to your unit)
-- Living/kitchen open-plan ≈ 40–50 m²; two bedrooms ≈ 12–14 m² each; bath ≈ 6 m².
+- Areas per the **Measured dimensions** table above (1 ft tiles + 13 ft width);
+  depth figures are conservative — confirm on site.
 - Flooring priced as budget SPC/laminate **over** existing tile (no removal).
 - Carpentry/labour at local Phnom Penh rates; imported décor will cost more.
 - Re-measure before buying flooring/brick — those two scale most with area.
